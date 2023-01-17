@@ -1,0 +1,33 @@
+.centropagina{
+    text-align:center;
+}
+
+.iconewhatsapp{
+    font-size:20px
+}
+
+.rodape{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:50px;
+    text-align: center;
+    background:#ccc;
+}
+
+.rodapeinterno{
+    padding-top:10px; font-size:0.7em
+}
+
+.redesocialinstagram{
+    font-size:20px; 
+    color:#ff0000; 
+    font-weight:bold;
+}
+
+.redesocialfacebook{
+    font-size:20px; 
+    color:#0000ff; 
+    font-weight:bold;
+}
